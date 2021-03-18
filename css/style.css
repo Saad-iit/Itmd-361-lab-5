@@ -1,0 +1,38 @@
+body {
+  background-color: #ff6347;
+  font-family: helvetica;
+  text-align: center;
+}
+h1 {
+color:#47e3ff;
+}
+table{
+	background-color: gray;
+	padding:1px;
+	margin-left: auto;
+	margin-right: auto;
+}
+caption {
+  font-weight: bold;
+  padding:10px;
+  color:#63d0e3;
+}
+#table-names {
+	background-color: blue;
+}
+th{
+	 color:#ffd429;
+	 padding:10px;
+}
+tr{
+	background-color:#a022dd;
+}
+td{
+	padding:2px;
+	color:yellow;
+}
+p{
+	color:rgb(138, 220, 124);
+ padding: 0;
+ margin: 0;
+}
